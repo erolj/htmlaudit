@@ -1,0 +1,31 @@
+// ------------------------
+// cssaudit.css
+//
+// Author: Erol Joudy
+// Modified: 24-06-2020
+// ------------------------
+
+
+%share__box {
+    outline: 2px dashed red;
+}
+
+// Images without alt
+img:not([alt]) {
+    @extend %share__box;
+}
+
+// Buttons without aria-label
+
+input[type=button]:not([aria-label]) {
+    @extend %share__box;
+}
+input[type=reset]:not([aria-label]) {
+    @extend %share__box;
+}
+input[type=submit]:not([aria-label]) {
+    @extend %share__box;
+}
+button:not([aria-label]) {
+    @extend %share__box;
+}

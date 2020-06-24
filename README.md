@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/erolj/cssaudit.svg?branch=master)](https://travis-ci.com/erolj/cssaudit)
+
 # cssaudit.css
 Stylesheet for auditing HTML5 code.
 

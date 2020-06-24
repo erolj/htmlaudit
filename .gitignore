@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Misc
+src/cssaudit.css
+src/cssaudit.css.map
+push.sh
+deploy-dev.sh

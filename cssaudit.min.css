@@ -1,0 +1,2 @@
+button:not([aria-label]),img:not([alt]),input[type=button]:not([aria-label]),input[type=reset]:not([aria-label]),input[type=submit]:not([aria-label]){outline:2px dashed red}
+/*# sourceMappingURL=src/cssaudit.css.map */

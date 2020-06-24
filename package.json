@@ -1,0 +1,29 @@
+{
+  "name": "cssaudit",
+  "version": "1.0.0",
+  "description": "Stylesheet for auditing HTML5 code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./push.sh",
+    "minify-css": "postcss src/cssaudit.css > cssaudit.min.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erolj/cssaudit.git"
+  },
+  "keywords": [
+    "css",
+    "stylesheet",
+    "audit"
+  ],
+  "author": "Erol Joudy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erolj/cssaudit/issues"
+  },
+  "homepage": "https://github.com/erolj/cssaudit#readme",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "postcss-cli": "^7.1.1"
+  }
+}

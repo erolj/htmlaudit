@@ -1,4 +1,5 @@
 # cssaudit.css
+Stylesheet for auditing HTML5 code.
 
 ## How to use
 ```html

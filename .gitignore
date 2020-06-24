@@ -352,5 +352,5 @@ MigrationBackup/
 # Misc
 src/cssaudit.css
 src/cssaudit.css.map
-push.sh
 deploy-dev.sh
+push.sh

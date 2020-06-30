@@ -5,7 +5,7 @@
 
 Stylesheet library for auditing HTML5 code.
 
-## How to use
+## Usage
 
 Please add this snippet inside your HEAD tag.
 

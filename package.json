@@ -4,8 +4,8 @@
   "description": "Stylesheet library for auditing HTML5 code.",
   "main": "index.js",
   "scripts": {
-    "test": "./push.sh",
-    "minify-css": "postcss src/htmlaudit.css > htmlaudit.min.css"
+    "git:push": "./push.sh",
+    "minify-css": "postcss src/htmlaudit.css > dist/htmlaudit.min.css"
   },
   "repository": {
     "type": "git",
@@ -16,6 +16,10 @@
     "html",
     "stylesheet",
     "audit"
+  ],
+  "files": [
+    "dist/*.css",
+    "dist/*.map"
   ],
   "author": "Erol Joudy",
   "license": "MIT",

@@ -1,7 +1,7 @@
 
 # htmlaudit.css
 
-[![Build Status](https://travis-ci.com/erolj/htmlaudit.svg?branch=master)](https://travis-ci.com/erolj/htmlaudit)
+[![Build Status](https://travis-ci.com/erolj/cssaudit.svg?branch=master)](https://travis-ci.com/erolj/cssaudit)
 
 Stylesheet for auditing HTML5 code.
 
@@ -10,9 +10,9 @@ Stylesheet for auditing HTML5 code.
 Please add snippet below in your code, inside HEAD tag.
 
 ```html
-<link rel="stylesheet" href="https://raw.githubusercontent.com/erolj/cssaudit/master/cssaudit.min.css" crossorigin="anonymous">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/erolj/htmlaudit/master/htmlaudit.min.css" crossorigin="anonymous">
 ```
 
 ## License
 
-[MIT License](https://github.com/erolj/cssaudit/blob/master/LICENSE)
+[MIT License](https://github.com/erolj/htmlaudit/blob/master/LICENSE)

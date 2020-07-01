@@ -5,6 +5,10 @@
 
 Stylesheet library for auditing HTML5 code.
 
+## Install
+
+[![NPM](https://nodei.co/npm/htmlaudit.png?mini=true)](https://nodei.co/npm/htmlaudit/)
+
 ## Usage
 
 Please add this snippet inside your HEAD tag.

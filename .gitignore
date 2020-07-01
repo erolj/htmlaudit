@@ -355,3 +355,4 @@ src/cssaudit.css.map
 src/test/*
 deploy-dev.sh
 push.sh
+pub.sh

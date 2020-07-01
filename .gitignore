@@ -350,7 +350,7 @@ MigrationBackup/
 .ionide/
 
 # Misc
-src/cssaudit.css
+src/htmlaudit.css
 src/test/*
 deploy-dev.sh
 push.sh

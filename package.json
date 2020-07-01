@@ -1,6 +1,6 @@
 {
   "name": "htmlaudit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stylesheet library for auditing HTML5 code.",
   "main": "index.js",
   "scripts": {

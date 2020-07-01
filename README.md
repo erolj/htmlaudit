@@ -14,13 +14,13 @@ Stylesheet library for auditing HTML5 code.
 Please add this snippet inside your HEAD tag.
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/htmlaudit@1.0.0/dist/htmlaudit.min.css" crossorigin="anonymous">
+<link rel="stylesheet" href="https://unpkg.com/htmlaudit@1.0.2/dist/htmlaudit.min.css" crossorigin="anonymous">
 ```
 
 Or, you can use another method by adding this snippet inside your stylesheet file.
 
 ```css
-@import url('https://unpkg.com/htmlaudit@1.0.0/dist/htmlaudit.min.css');
+@import url('https://unpkg.com/htmlaudit@1.0.2/dist/htmlaudit.min.css');
 ```
 
 ## License
